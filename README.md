@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Analyst from India</h3>
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=Suman-Sekhar-Meher&color=blue)
 <p >
   🌱 I’m currently learning <b>Data Analysis</b> and looking for Data Analyst or SQL Developer Opportunities<br>
   💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b><br>
