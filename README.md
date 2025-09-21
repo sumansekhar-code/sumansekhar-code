@@ -39,5 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&layout=compact&theme=tokyonight" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
