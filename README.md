@@ -1,13 +1,14 @@
 # Hi 👋, I'm Suman Sekhar Meher  
 ### An Aspiring Data Analyst from India  
 
-![Profile views](https://komarev.com/ghpvc/?username=Suman-Sekhar-Meher&color=blue)  ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Profile views](https://komarev.com/ghpvc/?username=Suman-Sekhar-Meher&color=blue)  
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 - 🌱 I’m currently learning **Data Analysis**  
 - 💬 Ask me about **SQL, Python, Excel, Power BI, and Machine Learning**  
 - 📫 How to reach me: **rajameher111@gmail.com**  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link)  
+- 📄 Know about my experiences ![My Resume](https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link)  
 
 ## 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/suman-sekhar-meher-b7899215b)
