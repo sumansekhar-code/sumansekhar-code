@@ -1,29 +1,43 @@
-# Hi 👋, I'm Suman Sekhar Meher  
-### An Aspiring Data Analyst from India  
+<h1 align="center">Hi 👋, I'm Suman Sekhar Meher</h1>
+<h3 align="center">An aspiring Data Analyst from India</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=Suman-Sekhar-Meher&color=blue)  
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+---
 
+<p align="center">
+  🌱 I’m currently learning <b>Data Analysis and Data Science</b><br>
+  💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b><br>
+  📫 How to reach me: <a href="mailto:sumansekharmeher@gmail.com">sumansekharmeher@gmail.com</a>
+</p>
 
-- 🌱 I’m currently learning **Data Analysis**  
-- 💬 Ask me about **SQL, Python, Excel, Power BI, and Machine Learning**  
-- 📫 How to reach me: **rajameher111@gmail.com**  
-- 📄 Know about my experiences ![My Resume](https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link)  
+---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/suman-sekhar-meher-b7899215b)
+### 🔗 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+</p>
 
-## 🛠 Languages and Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumansekhar-code&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=sumansekhar-code&theme=tokyonight) 
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
+</p>
 
-## 🚀 Fun Fact  
-⚡ I love **traveling, gardening**, and exploring **data-driven solutions**!  
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
