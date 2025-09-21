@@ -3,21 +3,22 @@
 
 ---
 
-<p align="center">
-  🌱 I’m currently learning <b>Data Analysis and Data Science</b><br>
+<p >
+  🌱 I’m currently learning <b>Data Analysis</b> and looking for Data Analyst or SQL Developer Opportunities<br>
   💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b><br>
-  📫 How to reach me: <a href="mailto:sumansekharmeher@gmail.com">sumansekharmeher@gmail.com</a>
+  📫 How to reach me: <a href="mailto:rajameher111@gmail.com">rajameher111@gmail.com</a>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link">My Resume</a>
 </p>
 
 ---
 
 ### 🔗 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">
     <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
 </p>
@@ -26,20 +27,21 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40px" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="40px" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"  width="40px" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  width="40px" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  width="40px" alt="Power BI" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&layout=compact&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumansekhar-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=sumansekhar-code&theme=tokyonight" alt="GitHub Streak" />
+  <br>
 </p>
