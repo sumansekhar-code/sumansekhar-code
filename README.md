@@ -17,10 +17,7 @@
   <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  &nbsp;
-  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">
-    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
+  
 </p>
 
 ---
