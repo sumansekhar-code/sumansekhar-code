@@ -15,6 +15,11 @@
 
 ### 🔗 Connect with me:
 <p>
+  <a href="https://www.linkedin.com/in/suman-sekhar-meher-b7899215b/" target="_blank">
+    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
+<p>
   <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b/">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
