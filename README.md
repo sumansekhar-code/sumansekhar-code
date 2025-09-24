@@ -43,7 +43,7 @@
 ---
 
 ### 📊 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansekhar-code&hide=Procfile&layout=compact&langs_count=8&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumansekhar-code&show_icons=true&theme=tokyonight)
 
 
