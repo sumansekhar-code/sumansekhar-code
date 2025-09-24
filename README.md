@@ -8,14 +8,14 @@
   💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b><br>
   📫 How to reach me: <a href="mailto:rajameher111@gmail.com">rajameher111@gmail.com</a><br>
   📄 Know about my experiences: <a href="https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link">My Resume</a></br>
-  🔗 Connect with me: <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">Linked In</a>
+  🔗 Connect with me: <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b/">Linked In</a>
   </p>
 
 ---
 
 ### 🔗 Connect with me:
 <p>
-  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">
+  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b/">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   
@@ -42,5 +42,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sumansekhar-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=sumansekhar-code" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sumansekhar-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
