@@ -19,12 +19,7 @@
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
-<p>
-  <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b/">
-    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  
-</p>
+
 
 ---
 
@@ -47,6 +42,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sumansekhar-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=sumansekhar-code&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sumansekhar-code&theme=tokyonight" alt="GitHub Streak" forced/>
 </p>
 
