@@ -7,8 +7,9 @@
   🌱 I’m currently learning <b>Data Analysis</b> and looking for Data Analyst or SQL Developer Opportunities<br>
   💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b><br>
   📫 How to reach me: <a href="mailto:rajameher111@gmail.com">rajameher111@gmail.com</a><br>
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link">My Resume</a>
-</p>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link">My Resume</a></br>
+  🔗 Connect with me: <a href="www.linkedin.com/in/suman-sekhar-meher-b7899215b">Linked In</a>
+  </p>
 
 ---
 
