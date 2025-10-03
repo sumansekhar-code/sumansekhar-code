@@ -12,7 +12,6 @@
   💼 Seeking opportunities as a <b>Data Analyst</b> or <b>SQL Developer</b>.<br>
   💬 Ask me about <b>SQL, Python, Excel, Power BI, and ML</b>.<br>
   📫 Reach me at: <a href="mailto:rajameher111@gmail.com">rajameher111@gmail.com</a>.<br>
-  📄 Check my experiences: <a href="https://drive.google.com/file/d/1YnFzKdO9U05qS6e68WWcMSz3g78b-Tew/view?usp=drive_link" target="_blank">My Resume</a>.<br>
   🔗 Connect with me on <a href="https://www.linkedin.com/in/suman-sekhar-meher-b7899215b/" target="_blank">LinkedIn</a>.
 </p>
 
