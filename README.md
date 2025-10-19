@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30px" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="30px" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px" />
+  <img src="https://img.shields.io/badge/Snowflake-0083E0?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" height="30px" />
+
 </p>
 
 ---
